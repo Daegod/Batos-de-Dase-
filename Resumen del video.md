@@ -35,5 +35,3 @@ información.
 El diseño logico nos ayuda a buscar una estructura de las tablas que nos darán solución
 al problema, además de también solventar todo lo que se postula en necesidades,
 dándonos así también soluciones correctas.
-</body>
-</html>
