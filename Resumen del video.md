@@ -1,6 +1,6 @@
-```diff
 
-! Diseño logico de bases de datos relacionales
+
+* '<kbd> Diseño logico de bases de datos relacionales </kbd>'
 
 Diseño conceptual --> diagramas de entidad relación
 
