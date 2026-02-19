@@ -1,2 +1,0 @@
-# Batos-de-Dase-
-Yes
