@@ -14,11 +14,10 @@ El modelo relacional se basa en tablas. Es un concepto muy intuitivo.
 El esquema logico dibuja la estructura de las tablas que nos dicen qué estructura tiene la 
 información.
 
-<span style ="color:aqua">
-<h3>
+
+<h3 style="color:red">
 ►Cada entidad del esquema es una tabla del esquema lógico </h3>
  -Si tenemos un atributo clave, esa es nuestra Primary Key.
-</span>
  
 <h3>
 ►Las relaciones n:n (muchos a muchos) se hacen en una tabla nueva </h3>
