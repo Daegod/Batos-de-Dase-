@@ -1,3 +1,15 @@
+<html>
+ <head>
+  <style>
+   h1{
+    color: red;
+    }
+   .info{
+    color:blue;
+    }
+  </style>
+ </head>
+<body>
 
 
 <h1> Diseño logico de bases de datos relacionales </h1>
@@ -37,3 +49,5 @@ información.
 El diseño logico nos ayuda a buscar una estructura de las tablas que nos darán solución
 al problema, además de también solventar todo lo que se postula en necesidades,
 dándonos así también soluciones correctas.
+</body>
+</html>
