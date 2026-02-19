@@ -15,7 +15,7 @@ El esquema logico dibuja la estructura de las tablas que nos dicen qué estructu
 información.
 
 
-<h3 style="color:red;">
+<h3 style="color: red;">
 ►Cada entidad del esquema es una tabla del esquema lógico </h3>
  -Si tenemos un atributo clave, esa es nuestra Primary Key.
  
