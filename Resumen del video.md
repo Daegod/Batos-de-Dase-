@@ -1,3 +1,4 @@
+
 <h1> Diseño logico de bases de datos relacionales </h1>
 
 Diseño conceptual --> diagramas de entidad relación
