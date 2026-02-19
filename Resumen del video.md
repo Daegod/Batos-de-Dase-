@@ -4,7 +4,7 @@
 
 Diseño conceptual --> diagramas de entidad relación
 
-<h2> ¿Que busca el diseño logico? </h2>
+<h3> ¿Que busca el diseño logico? </h3>
 
 Proponer una o más soluciones a uno o más problemas que se basen en un modelo de datos
 definiendo también tablas, atributos y claves.
