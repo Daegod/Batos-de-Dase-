@@ -1,16 +1,4 @@
-<html>
- <head>
-  <style>
-   h1{
-    color: red;
-    }
-   .info{
-    color:blue;
-    }
-  </style>
- </head>
-<body>
-
+$${\color{red}Your\ Heading\ Text}$$
 
 <h1> Diseño logico de bases de datos relacionales </h1>
 
